@@ -2,8 +2,8 @@ Table of content
 
 ***
 
-C++
-* Concurrency
+Concurrency
+* Threads In C
 * * [Process](https://github.com/maxterjy/invistd/blob/master/c%2B%2B/multithread/process.pdf)
 * * [Thread Overview](https://github.com/maxterjy/invistd/blob/master/c%2B%2B/multithread/thread_overview.pdf)
 * * [Thread Creation Termination](https://github.com/maxterjy/invistd/blob/master/c%2B%2B/multithread/thread_creation_termination.pdf)
@@ -11,10 +11,14 @@ C++
 * * [Condition Variable](https://github.com/maxterjy/invistd/blob/master/c%2B%2B/multithread/pthread_condition_variable.pdf)
 * * Applications
 * * * [Build Responsive UI Using Multiple Threads](https://github.com/maxterjy/invistd/blob/master/c%2B%2B/multithread/sample/build_responsive_user_interaction.pdf)
+
+
+* Threads In Android
+
 ***
 
-Android
-* Native Development Kit (C++)
+
+* Android Native Development Kit (NDK)
 * * [Add C++ To Android Project](https://github.com/maxterjy/invistd/blob/master/android/ndk/Add%20C%2B%2B%20To%20Android%20Project.pdf)
 * * [Cross CPU Architectures Application](https://github.com/maxterjy/invistd/blob/master/android/ndk/Cross%20CPU%20Archiectures%20Application.pdf)
 * * [Specific CPU Architectures Application](https://github.com/maxterjy/invistd/blob/master/android/ndk/Specific%20CPU%20Architectures%20Application.pdf)
