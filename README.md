@@ -3,7 +3,7 @@ Table of content
 ***
 
 Concurrency
-* Threads In C
+* **Threads In Linux**
 * * [Process](https://github.com/maxterjy/invistd/blob/master/c%2B%2B/multithread/process.pdf)
 * * [Thread Overview](https://github.com/maxterjy/invistd/blob/master/c%2B%2B/multithread/thread_overview.pdf)
 * * [Thread Creation Termination](https://github.com/maxterjy/invistd/blob/master/c%2B%2B/multithread/thread_creation_termination.pdf)
@@ -12,8 +12,10 @@ Concurrency
 * * Applications
 * * * [Build Responsive UI Using Multiple Threads](https://github.com/maxterjy/invistd/blob/master/c%2B%2B/multithread/sample/build_responsive_user_interaction.pdf)
 
+<br/>
 
-* Threads In Android
+* **Threads In Android**
+* * [Kernel Process & Thread Overview](https://github.com/maxterjy/invistd/blob/master/android/concurrency/kernel_process_thread_overview.pdf)
 
 ***
 
