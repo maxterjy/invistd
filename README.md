@@ -12,7 +12,7 @@ Concurrency
 * * Applications
 * * * [Build Responsive UI Using Multiple Threads](https://github.com/maxterjy/invistd/blob/master/c%2B%2B/multithread/sample/build_responsive_user_interaction.pdf)
 
-<br/><br/>
+<br/>
 
 * Threads In Android
 * * [Kernel Process & Thread Overview](https://github.com/maxterjy/invistd/blob/master/android/concurrency/kernel_process_thread_overview.pdf)
