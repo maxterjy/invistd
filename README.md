@@ -16,7 +16,7 @@ Concurrency
 
 * **Threads In Android**
 * * [Kernel Process & Thread Overview](https://github.com/maxterjy/invistd/blob/master/android/concurrency/kernel_process_thread_overview.pdf)
-
+* * [Main Thread (UI Thread)](https://github.com/maxterjy/invistd/blob/master/android/concurrency/main_thread.pdf)
 ***
 
 
