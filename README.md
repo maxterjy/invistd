@@ -39,7 +39,5 @@ Data Structure
 * [Stack](https://github.com/maxterjy/invistd/blob/master/data_structure/stack.pdf)
 ***
 
-Android Spec
-* [Theme & Style](https://github.com/maxterjy/invistd/blob/master/android/ui/theme_style.pdf)
-***
+Android 
 
