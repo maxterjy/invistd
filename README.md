@@ -36,7 +36,6 @@ Input/Output (I/O)
 ***
 
 Data Structure
-* [Stack](https://github.com/maxterjy/invistd/blob/master/data_structure/stack.pdf)
 ***
 
 Android 
