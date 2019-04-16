@@ -9,14 +9,14 @@ A fractal is defined as below.
     x
     </pre>
   
-* Fracal of degree 2:  
+* Fractal of degree 2:  
     <pre>
     x x  
      x  
     x x
     </pre>
 
-* Fracal of degree 3:  
+* Fractal of degree 3:  
     <pre>
     x x   x x
      x     x
@@ -29,7 +29,7 @@ A fractal is defined as below.
     x x   x x       
     </pre>
 
-* Fracal of degree n:
+* Fractal of degree n:
     <pre>
     f(n-1)      f(n-1)
           f(n-1)
@@ -37,17 +37,17 @@ A fractal is defined as below.
     </pre>
 
 Input:  
-An integer number N that represent fracal degree
+An integer number N that represent Fractal degree
 
 Output  
-Print fracal of degree n
+Print Fractal of degree n
 
 ## Solution  
-* Use a 2D array to store the image of fracal  
+* Use a 2D array to store the image of Fractal  
 ```c++
 char map[20][20];
 ```
-* Suppose function f() draw a fracal of degree n, {row, col} is the top-left corner of the fracal  
+* Suppose function f() draw a Fractal of degree n, {row, col} is the top-left corner of the Fractal  
 
 ```c++
 f(int n, int row, int col)
@@ -86,13 +86,13 @@ Or
 
 
 ```c++ 
-//width() return width of fracal degree n
+//width() return width of Fractal degree n
 int width(n) {
     return pow(3, n-1)
 }
 ```
 
-* Complete the fracal function
+* Complete the Fractal function
 
 ```c++ 
 void draw_fractal(int n, int row, int col) {
