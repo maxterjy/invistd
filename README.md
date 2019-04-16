@@ -35,8 +35,7 @@ Input/Output (I/O)
 * * [Buffer/Unbuffered IO](https://github.com/maxterjy/invistd/blob/master/c%2B%2B/io/IO_Buffered_Unbuffered.pdf)
 ***
 
-Data Structure
+Data Structure & Algorithms
 ***
 
-Android 
 
