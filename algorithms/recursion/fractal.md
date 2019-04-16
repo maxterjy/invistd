@@ -47,7 +47,7 @@ Print Fractal of degree n
 ```c++
 char map[20][20];
 ```
-* Suppose function f() draw a Fractal of degree n, {row, col} is the top-left corner of the Fractal  
+* Suppose function f() draw a Fractal of degree n at position {row, col}
 
 ```c++
 f(int n, int row, int col)
