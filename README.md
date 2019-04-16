@@ -2,6 +2,9 @@ Table of content
 
 ***
 
+Data Structure & Algorithms
+***
+
 Concurrency
 * Threads In Linux
 * * [Process](https://github.com/maxterjy/invistd/blob/master/c%2B%2B/multithread/process.pdf)
@@ -35,7 +38,6 @@ Input/Output (I/O)
 * * [Buffer/Unbuffered IO](https://github.com/maxterjy/invistd/blob/master/c%2B%2B/io/IO_Buffered_Unbuffered.pdf)
 ***
 
-Data Structure & Algorithms
-***
+
 
 
