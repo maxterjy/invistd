@@ -4,7 +4,7 @@ Table of content
 
 Data Structure & Algorithms  
 * Recursion  
-* * [Fracal]()
+* * [Fracal](https://github.com/maxterjy/invistd/blob/master/algorithms/recursion/fractal.md)
 
 ***
 
