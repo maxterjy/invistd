@@ -5,7 +5,7 @@ Table of content
 Data Structure & Algorithms  
 * Recursion  
 * * [Fracal](https://github.com/maxterjy/invistd/blob/master/algorithms/recursion/fractal.md)
-
+* * [Recursive Multiply](https://github.com/maxterjy/invistd/blob/master/algorithms/recursion/recursive_multiply.md)
 ***
 
 Concurrency
